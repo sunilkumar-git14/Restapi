@@ -1,1 +1,6 @@
 print("i am hungry1234")
+print("i am hungry1234")
+print("i am hungry1234")
+print("i am hungry1234")
+print("i am hungry1234")
+print("i am hungry1234")
